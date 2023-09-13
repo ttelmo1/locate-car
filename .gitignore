@@ -1,0 +1,7 @@
+# Arquivos gerados pelo IDE
+.idea/
+*.iml
+
+# Arquivos de compilacao
+out/
+target/
